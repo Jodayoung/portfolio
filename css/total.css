@@ -30,7 +30,7 @@ a {
 
 *{margin:0;padding:0;}
 .typing {
-    font-size:40px;
+    font-size:60px;
     line-height: 50px;}
 
 .typing:after {
@@ -309,7 +309,7 @@ a {
 .mb_textbox{
     position: absolute;
     left: 50%;
-    top: 140px;
+    top: 355px;
     transform: translateX(-50%);
     font-size: 50px;    
     color: rgb(255 255 255 / 80%);
