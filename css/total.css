@@ -796,7 +796,7 @@ font-family: 900;
     overflow: hidden;
     text-align: center;
 }
-.contact_imgbox>img{
+.contact_imgbox a > img{
     height: 100%;
 }
 
