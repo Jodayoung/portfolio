@@ -122,7 +122,7 @@ $(document).ready(function(){
                         width:'80%'
                     })
                     $('.gauge2').css({
-                        width:'85%'
+                        width:'90%'
                     })
                     $('.gauge3').css({
                         width:'90%'
